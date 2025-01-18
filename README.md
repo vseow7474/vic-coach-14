@@ -21,3 +21,4 @@ Group activity to familiarize with git
 - <alias of developer>
 
 victor seow
+royston lim
