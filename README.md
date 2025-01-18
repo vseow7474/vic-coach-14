@@ -22,4 +22,4 @@ Group activity to familiarize with git
 
 victor seow
 royston lim
-chek
+chek yeow
