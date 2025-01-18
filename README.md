@@ -7,7 +7,7 @@ Group activity to familiarize with git
 1. `git init` - initializes a git repository
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
 3. `git diff`
-4. `git add <filename>`
+
 5. `git reset <filename>`
 7. `git log`
 8. `git branch <branch name>`
