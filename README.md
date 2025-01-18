@@ -1,7 +1,3 @@
-# vic-coach-14
-
-Group Coaching 14
-
 # Overview
 
 Group activity to familiarize with git
